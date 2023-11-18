@@ -19,6 +19,7 @@ font-weight: 700;
 line-height: 1,2;
 text-align: left;
 color: #2196F3;
+text-decoration: none;
 }
 
 .logo2 {
@@ -36,6 +37,7 @@ line-height: 1,1;
 letter-spacing: 0.02em;
 text-align: left;
 color: #212121;
+text-decoration: none;
 }
 
 .contact-item {
@@ -45,7 +47,14 @@ line-height: 1,14;
 letter-spacing: 0.02em;
 text-align: left;
 color: #757575;
+text-decoration: none;
+font-style: normal;
 }
+
+.pages-item:hover, .contact-item:hover{
+    color: #2196F3;
+}
+
 
 .button-header {
 font-size: 44px;
@@ -135,4 +144,5 @@ line-height: 1,7;
 text-align: left;
 color: #FFFFFF;
 font-style: normal;
+text-decoration: none;
 }
