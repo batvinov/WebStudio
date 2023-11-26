@@ -13,6 +13,35 @@ body {
   letter-spacing: 0.03em;
 }
 
+/* container, padding */
+
+.container {
+  width: 1200px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+  outline: solid red;
+}
+
+.header-nav {
+  padding-top: 24px;
+  padding-bottom: 25px;
+}
+
+.footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.main-section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
+.nav-list {
+  padding-bottom: 50px;
+}
+
 /* header and footer */
 
 .logo,
