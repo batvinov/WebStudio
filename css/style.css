@@ -164,11 +164,11 @@ body {
 .adv-list {
   display: flex;
   justify-content: space-between;
+  gap: 30px;
 }
 
 .adv-item {
   outline: solid green;
-  margin-right: 30px;
 }
 
 .adv-title {
